@@ -1,0 +1,18 @@
+{
+  "mcpServers": {
+    "hearthstone-coach": {
+      "command": "python",
+      "args": ["src/coach/simple_mcp_server.py"],
+      "env": {
+        "PYTHONPATH": "."
+      },
+      "description": "炉石战棋识别辅助系统MCP服务",
+      "capabilities": {
+        "tools": {
+          "listChanged": true,
+          "listChangedNotification": true
+        }
+      }
+    }
+  }
+}
