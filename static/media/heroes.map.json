@@ -1,0 +1,707 @@
+[
+  {
+    "id": "101345",
+    "slug": "101345-etc-band-manager",
+    "name": "乐队经理精英牛头人酋长",
+    "image": "heroes/101345_101345-etc-band-manager.png"
+  },
+  {
+    "id": "64485",
+    "slug": "64485-zephrys-the-great",
+    "name": "了不起的杰弗里斯",
+    "image": "heroes/64485_64485-zephrys-the-great.png"
+  },
+  {
+    "id": "66196",
+    "slug": "66196-yshaarj",
+    "name": "亚煞极",
+    "image": "heroes/66196_66196-yshaarj.png"
+  },
+  {
+    "id": "71458",
+    "slug": "71458-death-speaker-blackthorn",
+    "name": "亡语者布莱克松",
+    "image": "heroes/71458_71458-death-speaker-blackthorn.png"
+  },
+  {
+    "id": "57634",
+    "slug": "57634-illidan-stormrage",
+    "name": "伊利丹·怒风",
+    "image": "heroes/57634_57634-illidan-stormrage.png"
+  },
+  {
+    "id": "80832",
+    "slug": "80832-ini-stormcoil",
+    "name": "伊妮·积雷",
+    "image": "heroes/80832_80832-ini-stormcoil.png"
+  },
+  {
+    "id": "60370",
+    "slug": "60370-ysera",
+    "name": "伊瑟拉",
+    "image": "heroes/60370_60370-ysera.png",
+    "imageGold": "heroes/60370_60370-ysera_gold.png"
+  },
+  {
+    "id": "60213",
+    "slug": "60213-elise-starseeker",
+    "name": "伊莉斯·逐星",
+    "image": "heroes/60213_60213-elise-starseeker.png",
+    "imageGold": "heroes/60213_60213-elise-starseeker_gold.png"
+  },
+  {
+    "id": "58021",
+    "slug": "58021-the-great-akazamzarak",
+    "name": "伟大的阿卡扎曼扎拉克",
+    "image": "heroes/58021_58021-the-great-akazamzarak.png",
+    "imageGold": "heroes/58021_58021-the-great-akazamzarak_gold.png"
+  },
+  {
+    "id": "58535",
+    "slug": "58535-cthun",
+    "name": "克苏恩",
+    "image": "heroes/58535_58535-cthun.png"
+  },
+  {
+    "id": "117409",
+    "slug": "117409-zerek-master-cloner",
+    "name": "克隆大师泽里克"
+  },
+  {
+    "id": "97186",
+    "slug": "97186-the-jailer",
+    "name": "典狱长",
+    "image": "heroes/97186_97186-the-jailer.png"
+  },
+  {
+    "id": "61912",
+    "slug": "61912-kaelthas-sunstrider",
+    "name": "凯尔萨斯·逐日者",
+    "image": "heroes/61912_61912-kaelthas-sunstrider.png"
+  },
+  {
+    "id": "73940",
+    "slug": "73940-cariel-roame",
+    "name": "凯瑞尔·罗姆",
+    "image": "heroes/73940_73940-cariel-roame.png"
+  },
+  {
+    "id": "120358",
+    "slug": "120358-kerrigan-queen-of-blades",
+    "name": "刀锋女王凯瑞甘"
+  },
+  {
+    "id": "104982",
+    "slug": "104982-gall",
+    "name": "加尔",
+    "image": "heroes/104982_104982-gall.png"
+  },
+  {
+    "id": "59807",
+    "slug": "59807-lord-jaraxxus",
+    "name": "加拉克苏斯大王",
+    "image": "heroes/59807_59807-lord-jaraxxus.png",
+    "imageGold": "heroes/59807_59807-lord-jaraxxus_gold.png"
+  },
+  {
+    "id": "86291",
+    "slug": "86291-heistbaron-togwaggle",
+    "name": "劫匪之王托瓦格尔",
+    "image": "heroes/86291_86291-heistbaron-togwaggle.png"
+  },
+  {
+    "id": "86013",
+    "slug": "86013-ozumat",
+    "name": "厄祖玛特",
+    "image": "heroes/86013_86013-ozumat.png"
+  },
+  {
+    "id": "77516",
+    "slug": "77516-cookie-the-cook",
+    "name": "厨师曲奇",
+    "image": "heroes/77516_77516-cookie-the-cook.png"
+  },
+  {
+    "id": "104981",
+    "slug": "104981-cho",
+    "name": "古",
+    "image": "heroes/104981_104981-cho.png"
+  },
+  {
+    "id": "68129",
+    "slug": "68129-guff-runetotem",
+    "name": "古夫·符文图腾",
+    "image": "heroes/68129_68129-guff-runetotem.png"
+  },
+  {
+    "id": "118509",
+    "slug": "118509-jim-raynor",
+    "name": "吉姆·雷诺"
+  },
+  {
+    "id": "71916",
+    "slug": "71916-mutanus-the-devourer",
+    "name": "吞噬者穆坦努斯",
+    "image": "heroes/71916_71916-mutanus-the-devourer.png"
+  },
+  {
+    "id": "103500",
+    "slug": "103500-inge-the-iron-hymn",
+    "name": "因葛，钢铁颂歌",
+    "image": "heroes/103500_103500-inge-the-iron-hymn.png"
+  },
+  {
+    "id": "57929",
+    "slug": "57929-george-the-fallen",
+    "name": "堕落的乔治",
+    "image": "heroes/57929_57929-george-the-fallen.png",
+    "imageGold": "heroes/57929_57929-george-the-fallen_gold.png"
+  },
+  {
+    "id": "74646",
+    "slug": "74646-tamsin-roame",
+    "name": "塔姆辛·罗姆",
+    "image": "heroes/74646_74646-tamsin-roame.png"
+  },
+  {
+    "id": "77987",
+    "slug": "77987-tavish-stormpike",
+    "name": "塔维什·雷矛",
+    "image": "heroes/77987_77987-tavish-stormpike.png"
+  },
+  {
+    "id": "98726",
+    "slug": "98726-teron-gorefiend",
+    "name": "塔隆·血魔",
+    "image": "heroes/98726_98726-teron-gorefiend.png"
+  },
+  {
+    "id": "117425",
+    "slug": "117425-exarch-othaar",
+    "name": "大主教奥萨尔"
+  },
+  {
+    "id": "62268",
+    "slug": "62268-skycapn-kragg",
+    "name": "天空上尉库拉格",
+    "image": "heroes/62268_62268-skycapn-kragg.png"
+  },
+  {
+    "id": "82110",
+    "slug": "82110-onyxia",
+    "name": "奥妮克希亚",
+    "image": "heroes/82110_82110-onyxia.png"
+  },
+  {
+    "id": "64403",
+    "slug": "64403-alakir",
+    "name": "奥拉基尔",
+    "image": "heroes/64403_64403-alakir.png"
+  },
+  {
+    "id": "62242",
+    "slug": "62242-captain-eudora",
+    "name": "尤朵拉船长",
+    "image": "heroes/62242_62242-captain-eudora.png"
+  },
+  {
+    "id": "59805",
+    "slug": "59805-yogg-saron-hopes-end",
+    "name": "尤格-萨隆",
+    "image": "heroes/59805_59805-yogg-saron-hopes-end.png",
+    "imageGold": "heroes/59805_59805-yogg-saron-hopes-end_gold.png"
+  },
+  {
+    "id": "58044",
+    "slug": "58044-lich-bazhial",
+    "name": "巫妖巴兹亚尔",
+    "image": "heroes/58044_58044-lich-bazhial.png",
+    "imageGold": "heroes/58044_58044-lich-bazhial_gold.png"
+  },
+  {
+    "id": "58024",
+    "slug": "58024-the-lich-king",
+    "name": "巫妖王",
+    "image": "heroes/58024_58024-the-lich-king.png",
+    "imageGold": "heroes/58024_58024-the-lich-king_gold.png"
+  },
+  {
+    "id": "63602",
+    "slug": "63602-lord-barov",
+    "name": "巴罗夫领主",
+    "image": "heroes/63602_63602-lord-barov.png"
+  },
+  {
+    "id": "79719",
+    "slug": "79719-brukan",
+    "name": "布鲁坎",
+    "image": "heroes/79719_79719-brukan.png"
+  },
+  {
+    "id": "89293",
+    "slug": "89293-sylvanas-windrunner",
+    "name": "希尔瓦娜斯·风行者",
+    "image": "heroes/89293_89293-sylvanas-windrunner.png"
+  },
+  {
+    "id": "64480",
+    "slug": "64480-silas-darkmoon",
+    "name": "希拉斯·暗月",
+    "image": "heroes/64480_64480-silas-darkmoon.png"
+  },
+  {
+    "id": "59397",
+    "slug": "59397-patchwerk",
+    "name": "帕奇维克",
+    "image": "heroes/59397_59397-patchwerk.png",
+    "imageGold": "heroes/59397_59397-patchwerk_gold.png"
+  },
+  {
+    "id": "74631",
+    "slug": "74631-kurtrus-ashfallen",
+    "name": "库尔特鲁斯·陨烬",
+    "image": "heroes/74631_74631-kurtrus-ashfallen.png"
+  },
+  {
+    "id": "96870",
+    "slug": "96870-enhance-o-mechano",
+    "name": "强化机器人",
+    "image": "heroes/96870_96870-enhance-o-mechano.png"
+  },
+  {
+    "id": "92960",
+    "slug": "92960-sire-denathrius",
+    "name": "德纳修斯大帝",
+    "image": "heroes/92960_92960-sire-denathrius.png"
+  },
+  {
+    "id": "80239",
+    "slug": "80239-drekthar",
+    "name": "德雷克塔尔",
+    "image": "heroes/80239_80239-drekthar.png"
+  },
+  {
+    "id": "60214",
+    "slug": "60214-dinotamer-brann",
+    "name": "恐龙大师布莱恩",
+    "image": "heroes/60214_60214-dinotamer-brann.png"
+  },
+  {
+    "id": "66483",
+    "slug": "66483-nzoth",
+    "name": "恩佐斯",
+    "image": "heroes/66483_66483-nzoth.png"
+  },
+  {
+    "id": "120649",
+    "slug": "120649-buttons",
+    "name": "扣子"
+  },
+  {
+    "id": "64400",
+    "slug": "64400-rakanishu",
+    "name": "拉卡尼休",
+    "image": "heroes/64400_64400-rakanishu.png"
+  },
+  {
+    "id": "57944",
+    "slug": "57944-a-f-kay",
+    "name": "挂机的阿凯",
+    "image": "heroes/57944_57944-a-f-kay.png",
+    "imageGold": "heroes/57944_57944-a-f-kay_gold.png"
+  },
+  {
+    "id": "67356",
+    "slug": "67356-tickatus",
+    "name": "提克特斯",
+    "image": "heroes/67356_67356-tickatus.png"
+  },
+  {
+    "id": "99033",
+    "slug": "99033-rock-master-voone",
+    "name": "摇滚教父沃恩",
+    "image": "heroes/99033_99033-rock-master-voone.png"
+  },
+  {
+    "id": "84867",
+    "slug": "84867-murloc-holmes",
+    "name": "摩洛克·福尔摩斯",
+    "image": "heroes/84867_84867-murloc-holmes.png"
+  },
+  {
+    "id": "76562",
+    "slug": "76562-scabbs-cutterbutter",
+    "name": "斯卡布斯·刀油",
+    "image": "heroes/76562_76562-scabbs-cutterbutter.png"
+  },
+  {
+    "id": "76521",
+    "slug": "76521-sneed",
+    "name": "斯尼德",
+    "image": "heroes/76521_76521-sneed.png"
+  },
+  {
+    "id": "104567",
+    "slug": "104567-the-nameless-one",
+    "name": "无名者",
+    "image": "heroes/104567_104567-the-nameless-one.png"
+  },
+  {
+    "id": "97813",
+    "slug": "97813-professor-putricide",
+    "name": "普崔塞德教授",
+    "image": "heroes/97813_97813-professor-putricide.png"
+  },
+  {
+    "id": "63604",
+    "slug": "63604-forest-warden-omu",
+    "name": "林地守护者欧穆",
+    "image": "heroes/63604_63604-forest-warden-omu.png"
+  },
+  {
+    "id": "67553",
+    "slug": "67553-greybough",
+    "name": "格雷布",
+    "image": "heroes/67553_67553-greybough.png"
+  },
+  {
+    "id": "116920",
+    "slug": "116920-forest-lord-cenarius",
+    "name": "森林之王塞纳留斯"
+  },
+  {
+    "id": "60369",
+    "slug": "60369-deathwing",
+    "name": "死亡之翼",
+    "image": "heroes/60369_60369-deathwing.png",
+    "imageGold": "heroes/60369_60369-deathwing_gold.png"
+  },
+  {
+    "id": "63319",
+    "slug": "63319-mr-bigglesworth",
+    "name": "比格沃斯先生",
+    "image": "heroes/63319_63319-mr-bigglesworth.png"
+  },
+  {
+    "id": "58534",
+    "slug": "58534-infinite-toki",
+    "name": "永恒者托奇",
+    "image": "heroes/58534_58534-infinite-toki.png",
+    "imageGold": "heroes/58534_58534-infinite-toki_gold.png"
+  },
+  {
+    "id": "71463",
+    "slug": "71463-voljin",
+    "name": "沃金",
+    "image": "heroes/71463_71463-voljin.png"
+  },
+  {
+    "id": "58027",
+    "slug": "58027-shudderwock",
+    "name": "沙德沃克",
+    "image": "heroes/58027_58027-shudderwock.png",
+    "imageGold": "heroes/58027_58027-shudderwock_gold.png"
+  },
+  {
+    "id": "105431",
+    "slug": "105431-taethelan-bloodwatcher",
+    "name": "泰瑟兰·血望者",
+    "image": "heroes/105431_105431-taethelan-bloodwatcher.png"
+  },
+  {
+    "id": "70956",
+    "slug": "70956-xyrella",
+    "name": "泽瑞拉",
+    "image": "heroes/70956_70956-xyrella.png"
+  },
+  {
+    "id": "70838",
+    "slug": "70838-rokara",
+    "name": "洛卡拉",
+    "image": "heroes/70838_70838-rokara.png"
+  },
+  {
+    "id": "122925",
+    "slug": "122925-loh-the-living-legend",
+    "name": "洛，在世传奇"
+  },
+  {
+    "id": "57947",
+    "slug": "57947-patches-the-pirate",
+    "name": "海盗帕奇斯",
+    "image": "heroes/57947_57947-patches-the-pirate.png",
+    "imageGold": "heroes/57947_57947-patches-the-pirate_gold.png"
+  },
+  {
+    "id": "57892",
+    "slug": "57892-ragnaros-the-firelord",
+    "name": "炎魔之王拉格纳罗斯",
+    "image": "heroes/57892_57892-ragnaros-the-firelord.png",
+    "imageGold": "heroes/57892_57892-ragnaros-the-firelord_gold.png"
+  },
+  {
+    "id": "75702",
+    "slug": "75702-galewing",
+    "name": "狂风之翼",
+    "image": "heroes/75702_75702-galewing.png"
+  },
+  {
+    "id": "61914",
+    "slug": "61914-maiev-shadowsong",
+    "name": "玛维·影歌",
+    "image": "heroes/61914_61914-maiev-shadowsong.png"
+  },
+  {
+    "id": "61490",
+    "slug": "61490-malygos",
+    "name": "玛里苟斯",
+    "image": "heroes/61490_61490-malygos.png",
+    "imageGold": "heroes/61490_61490-malygos_gold.png"
+  },
+  {
+    "id": "85125",
+    "slug": "85125-lady-vashj",
+    "name": "瓦丝琪女士",
+    "image": "heroes/85125_85125-lady-vashj.png"
+  },
+  {
+    "id": "79615",
+    "slug": "79615-varden-dawngrasp",
+    "name": "瓦尔登·晨拥",
+    "image": "heroes/79615_79615-varden-dawngrasp.png"
+  },
+  {
+    "id": "57924",
+    "slug": "57924-queen-wagtoggle",
+    "name": "瓦托格尔女王",
+    "image": "heroes/57924_57924-queen-wagtoggle.png"
+  },
+  {
+    "id": "59831",
+    "slug": "59831-pyramad",
+    "name": "疯狂金字塔",
+    "image": "heroes/59831_59831-pyramad.png",
+    "imageGold": "heroes/59831_59831-pyramad_gold.png"
+  },
+  {
+    "id": "59814",
+    "slug": "59814-king-mukla",
+    "name": "穆克拉",
+    "image": "heroes/59814_59814-king-mukla.png"
+  },
+  {
+    "id": "57946",
+    "slug": "57946-millificent-manastorm",
+    "name": "米尔菲丝·法力风暴",
+    "image": "heroes/57946_57946-millificent-manastorm.png",
+    "imageGold": "heroes/57946_57946-millificent-manastorm_gold.png"
+  },
+  {
+    "id": "60366",
+    "slug": "60366-millhouse-manastorm",
+    "name": "米尔豪斯·法力风暴",
+    "image": "heroes/60366_60366-millhouse-manastorm.png",
+    "imageGold": "heroes/60366_60366-millhouse-manastorm_gold.png"
+  },
+  {
+    "id": "113310",
+    "slug": "113310-marin-the-manager",
+    "name": "经理马林"
+  },
+  {
+    "id": "60362",
+    "slug": "60362-arch-villain-rafaam",
+    "name": "至尊盗王拉法姆",
+    "image": "heroes/60362_60362-arch-villain-rafaam.png",
+    "imageGold": "heroes/60362_60362-arch-villain-rafaam_gold.png"
+  },
+  {
+    "id": "59806",
+    "slug": "59806-dancin-deryl",
+    "name": "舞者达瑞尔",
+    "image": "heroes/59806_59806-dancin-deryl.png",
+    "imageGold": "heroes/59806_59806-dancin-deryl_gold.png"
+  },
+  {
+    "id": "57633",
+    "slug": "57633-edwin-vancleef",
+    "name": "艾德温·范克里夫",
+    "image": "heroes/57633_57633-edwin-vancleef.png",
+    "imageGold": "heroes/57633_57633-edwin-vancleef_gold.png"
+  },
+  {
+    "id": "79618",
+    "slug": "79618-queen-azshara",
+    "name": "艾萨拉女王",
+    "image": "heroes/79618_79618-queen-azshara.png"
+  },
+  {
+    "id": "60211",
+    "slug": "60211-sir-finley-mrrgglton",
+    "name": "芬利·莫格顿爵士",
+    "image": "heroes/60211_60211-sir-finley-mrrgglton.png",
+    "imageGold": "heroes/60211_60211-sir-finley-mrrgglton_gold.png"
+  },
+  {
+    "id": "60367",
+    "slug": "60367-tess-greymane",
+    "name": "苔丝·格雷迈恩",
+    "image": "heroes/60367_60367-tess-greymane.png"
+  },
+  {
+    "id": "80247",
+    "slug": "80247-vanndar-stormpike",
+    "name": "范达尔·雷矛",
+    "image": "heroes/80247_80247-vanndar-stormpike.png"
+  },
+  {
+    "id": "105434",
+    "slug": "105434-doctor-hollidae",
+    "name": "荷利戴医生",
+    "image": "heroes/105434_105434-doctor-hollidae.png"
+  },
+  {
+    "id": "60372",
+    "slug": "60372-fungalmancer-flurgl",
+    "name": "菌菇术士弗洛格尔",
+    "image": "heroes/60372_60372-fungalmancer-flurgl.png",
+    "imageGold": "heroes/60372_60372-fungalmancer-flurgl_gold.png"
+  },
+  {
+    "id": "71454",
+    "slug": "71454-overlord-saurfang",
+    "name": "萨鲁法尔大王",
+    "image": "heroes/71454_71454-overlord-saurfang.png"
+  },
+  {
+    "id": "105314",
+    "slug": "105314-snake-eyes",
+    "name": "蛇眼",
+    "image": "heroes/105314_105314-snake-eyes.png"
+  },
+  {
+    "id": "63601",
+    "slug": "63601-jandice-barov",
+    "name": "詹迪斯·巴罗夫",
+    "image": "heroes/63601_63601-jandice-barov.png"
+  },
+  {
+    "id": "61489",
+    "slug": "61489-nozdormu",
+    "name": "诺兹多姆",
+    "image": "heroes/61489_61489-nozdormu.png",
+    "imageGold": "heroes/61489_61489-nozdormu_gold.png"
+  },
+  {
+    "id": "57891",
+    "slug": "57891-trade-prince-gallywix",
+    "name": "贸易亲王加里维克斯",
+    "image": "heroes/57891_57891-trade-prince-gallywix.png"
+  },
+  {
+    "id": "81569",
+    "slug": "81569-ambassador-faelin",
+    "name": "费林大使",
+    "image": "heroes/81569_81569-ambassador-faelin.png"
+  },
+  {
+    "id": "104671",
+    "slug": "104671-flobbidinous-floop",
+    "name": "软泥教授弗洛普",
+    "image": "heroes/104671_104671-flobbidinous-floop.png"
+  },
+  {
+    "id": "58435",
+    "slug": "58435-sindragosa",
+    "name": "辛达苟萨",
+    "image": "heroes/58435_58435-sindragosa.png",
+    "imageGold": "heroes/58435_58435-sindragosa_gold.png"
+  },
+  {
+    "id": "57635",
+    "slug": "57635-galakrond",
+    "name": "迦拉克隆",
+    "image": "heroes/57635_57635-galakrond.png",
+    "imageGold": "heroes/57635_57635-galakrond_gold.png"
+  },
+  {
+    "id": "107183",
+    "slug": "107183-madam-goya",
+    "name": "郭雅夫人",
+    "image": "heroes/107183_107183-madam-goya.png"
+  },
+  {
+    "id": "62266",
+    "slug": "62266-captain-hooktusk",
+    "name": "钩牙船长",
+    "image": "heroes/62266_62266-captain-hooktusk.png"
+  },
+  {
+    "id": "71908",
+    "slug": "71908-master-nguyen",
+    "name": "阮大师",
+    "image": "heroes/71908_71908-master-nguyen.png"
+  },
+  {
+    "id": "61910",
+    "slug": "61910-aranna-starseeker",
+    "name": "阿兰娜·逐星",
+    "image": "heroes/61910_61910-aranna-starseeker.png"
+  },
+  {
+    "id": "118510",
+    "slug": "118510-artanis",
+    "name": "阿塔尼斯"
+  },
+  {
+    "id": "61488",
+    "slug": "61488-alexstrasza",
+    "name": "阿莱克丝塔萨",
+    "image": "heroes/61488_61488-alexstrasza.png",
+    "imageGold": "heroes/61488_61488-alexstrasza_gold.png"
+  },
+  {
+    "id": "60212",
+    "slug": "60212-reno-jackson",
+    "name": "雷诺·杰克逊",
+    "image": "heroes/60212_60212-reno-jackson.png",
+    "imageGold": "heroes/60212_60212-reno-jackson_gold.png"
+  },
+  {
+    "id": "101130",
+    "slug": "101130-capn-hoggarr",
+    "name": "霍格船长",
+    "image": "heroes/101130_101130-capn-hoggarr.png"
+  },
+  {
+    "id": "116926",
+    "slug": "116926-farseer-nobundo",
+    "name": "预言者努波顿"
+  },
+  {
+    "id": "103477",
+    "slug": "103477-thorim-stormlord",
+    "name": "风暴之王托里姆",
+    "image": "heroes/103477_103477-thorim-stormlord.png"
+  },
+  {
+    "id": "59203",
+    "slug": "59203-the-curator",
+    "name": "馆长",
+    "image": "heroes/59203_59203-the-curator.png",
+    "imageGold": "heroes/59203_59203-the-curator_gold.png"
+  },
+  {
+    "id": "57893",
+    "slug": "57893-the-rat-king",
+    "name": "鼠王",
+    "image": "heroes/57893_57893-the-rat-king.png",
+    "imageGold": "heroes/57893_57893-the-rat-king_gold.png"
+  },
+  {
+    "id": "64475",
+    "slug": "64475-chenvaala",
+    "name": "齐恩瓦拉",
+    "image": "heroes/64475_64475-chenvaala.png"
+  }
+]

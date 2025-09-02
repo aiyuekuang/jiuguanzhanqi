@@ -1,0 +1,31 @@
+{
+  "name": "lushi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bgs:api": "yarn dlx tsx 6aScript/ts/src/fetch_bgs_from_api.ts",
+    "bgs:docs": "yarn dlx tsx 6aScript/ts/src/generate_docs_from_api.ts",
+    "bgs:all": "yarn bgs:api && yarn bgs:docs",
+    "bgs:media": "yarn dlx tsx 6aScript/ts/src/download_media.ts",
+    "bgs:split": "yarn dlx tsx 6aScript/ts/src/split_bgs_json.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "packageManager": "yarn@4.9.3+sha512.8295ee814f6b253e16f516416481b481a215ed03ef1ae38524d108084872560a9ed75aeb23b91ab64222062ac4149a594150ae538c2a9536fdbcefd4e49b11cc",
+  "devDependencies": {
+    "@types/node": "24.3.0",
+    "playwright": "^1.55.0",
+    "puppeteer": "^24.18.0",
+    "tsx": "4.20.5",
+    "typescript": "5.9.2"
+  },
+  "dependencies": {
+    "dotenv": "17.2.1"
+  }
+}
